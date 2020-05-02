@@ -11,3 +11,4 @@ npm-debug.log
 *.bs.js
 
 yarn.lock
+src/tailwind.css
